@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D485CFC1-07A2-4073-AE88-2068B5707911"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "107F5A81-2B7E-4AE7-A3C3-09C47527D5FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyForo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "107F5A81-2B7E-4AE7-A3C3-09C47527D5FF - 540fc6b111424229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyForo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MyForo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patrickrobinson/Downloads/DesarrolloAppsIOS/MyForo/MyForo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "725">
+               </Location>
+               <Location
+                  uuid = "107F5A81-2B7E-4AE7-A3C3-09C47527D5FF - 73bf6112c436ad09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;MyForo.Post&gt;, MyForo.ApiError&gt;) -&gt; () in MyForo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MyForo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/patrickrobinson/Downloads/DesarrolloAppsIOS/MyForo/MyForo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D35860D-BDAE-42EC-AF9F-C3E5BF671A54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyForo/Network/NetworkGeneric.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "decodingTask(with:decodingType:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
