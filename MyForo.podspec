@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'iOSPODLab/Network/*'
+  s.source_files = 'MyForo/Network/*'
   
   # s.resource_bundles = {
   #   '${POD_NAME}' => ['${POD_NAME}/Assets/*.png']
